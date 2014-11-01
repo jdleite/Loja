@@ -100,7 +100,7 @@ public class Treino {
 
 		for (int i = 0; i < 4; i++) {
 
-			System.out.println("Rankin" + totalPlinha[i] + "" + produto[i]);
+			System.out.println("Ranking" + totalPlinha[i] + "" + produto[i]);
 
 		}
 	}
